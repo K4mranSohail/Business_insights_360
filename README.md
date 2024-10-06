@@ -180,26 +180,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/user-attachments/assets/09239482-fdcb-426b-80e7-4a4483833079)
+![Info.gif](https://github.com/user-attachments/assets/a31fa621-2ea2-476d-8efd-4dc65d6aa9d5)
 
 ## Finance View
 
-![Finace.gif](https://github.com/user-attachments/assets/b9ac27e2-5d29-46c3-91cb-3c1dd0fb1455)
+![Finace.gif](https://github.com/user-attachments/assets/adfc9437-5054-43f8-ba99-3a93d497d3dd)
 ## Sales View
 
-![Sales.gif](https://github.com/user-attachments/assets/23405ca1-0aa2-44f5-95e9-83d608db84f6)
+![Sales.gif](https://github.com/user-attachments/assets/13dd2c5f-360f-428c-aaf8-6ea1cb0491e2)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/user-attachments/assets/4858df54-5b0e-4f37-ace6-8b80413b14a4)
+![Marketing.gif](https://github.com/user-attachments/assets/07f78d0f-8fce-41ce-adb5-2f10d3892416)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/user-attachments/assets/3c041868-0b5e-4cf3-b378-2eeb51790cd5)
+![Supply chain.gif](https://github.com/user-attachments/assets/795ecd03-f89f-4e20-87db-4da10c74f54b)
 
 ## Executive View
 
-![Executive.gif](https://github.com/user-attachments/assets/52085026-f9e3-4449-be07-2740f7dc253b)
+![Executive.gif](https://github.com/user-attachments/assets/81284125-49a2-47b3-80f7-adf197b3b0a3)
 
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
