@@ -1,4 +1,3 @@
-# Business_insights_360
 # Business Insights 360
 
 ## Project Overview
